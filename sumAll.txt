@@ -1,0 +1,19 @@
+1. Ask user to enter number repeatedly. 0 indicates the user has stopped the input.
+2. Determine all numbers as positive or negative
+3. Add all positive numbers. Add all negative numbers.
+4. Print both sums even if there are no even or odd numbers.
+
+//Determine what loop to use to branch into a positive or negative function
+
+//EVEN
+
+
+//ODD
+
+
+//Game Plan
+start with basic MIPS template
+build 2 functions - understand how to classify a number as positive or negative
+test functions
+
+perhaps use C code to 
